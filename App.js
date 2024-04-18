@@ -1,6 +1,6 @@
 import React from "react"
-import Project8 from "./src/Project8"
+import Calculator from "./src/Calculator"
 export default function App() {
-  return <Project8 />
+  return <Calculator />
 }
 
